@@ -1,0 +1,96 @@
+Nombre: Comprar víveres
+Descripción: Realizar la compra semanal en el supermercado. Incluir frutas, verduras, carnes, lácteos y artículos de limpieza. Verificar ofertas disponibles.
+Usuario: Jahel
+Estado: Por Hacer
+Prioridad: Alta
+Fecha Inicio: 2024-12-08
+Fecha Fin: 2024-12-09
+---------------------------
+Nombre: Pagar facturas
+Descripción: Pagar las facturas pendientes de electricidad, agua, internet y teléfono antes de la fecha de vencimiento.
+Usuario: Mariana
+Estado: Completada
+Prioridad: Media
+Fecha Inicio: 2024-12-10
+Fecha Fin: 2024-12-10
+---------------------------
+Nombre: Organizar archivos
+Descripción: Revisar, ordenar y respaldar los documentos importantes de la computadora. Incluir facturas, contratos y archivos personales.
+Usuario: Luis
+Estado: Por Hacer
+Prioridad: Media
+Fecha Inicio: 2024-12-11
+Fecha Fin: 2024-12-12
+---------------------------
+Nombre: Planificar viaje
+Descripción: Crear un itinerario detallado para el próximo viaje. Reservar alojamiento, transporte y actividades en el destino.
+Usuario: Daniela
+Estado: Por Hacer
+Prioridad: Media
+Fecha Inicio: 2024-12-13
+Fecha Fin: 2024-12-14
+---------------------------
+Nombre: Reparar auto
+Descripción: Llevar el auto al taller para revisión general. Solicitar cambio de aceite, verificar frenos y revisar los neumáticos.
+Usuario: Daniela
+Estado: En Progreso
+Prioridad: Alta
+Fecha Inicio: 2024-12-15
+Fecha Fin: 2024-12-16
+---------------------------
+Nombre: Comprar materiales escolares
+Descripción: Adquirir útiles escolares para el inicio de clases. Incluir cuadernos, lápices, colores, mochila y uniforme escolar.
+Usuario: Daniela
+Estado: En Progreso
+Prioridad: Baja
+Fecha Inicio: 2024-12-08
+Fecha Fin: 2024-12-09
+---------------------------
+Nombre:  Realizar limpieza general
+Descripción: Limpiar la casa a fondo, incluyendo ventanas, cocina y baños. Organizar armarios y desechar lo innecesario.
+Usuario: Fernanda
+Estado: En Progreso
+Prioridad: Media
+Fecha Inicio: 2024-12-17
+Fecha Fin: 2024-12-18
+---------------------------
+Nombre: Leer y resumir libro
+Descripción: Leer el libro asignado para la reunión del club de lectura. Preparar un resumen con ideas principales y reflexiones.
+Usuario: Mariana
+Estado: Completada
+Prioridad: Baja
+Fecha Inicio: 2024-08-19
+Fecha Fin: 2024-08-20
+---------------------------
+Nombre: Comprar regalos
+Descripción: Elegir y adquirir regalos para las festividades. Incluir envolturas y tarjetas personalizadas para cada destinatario.
+Usuario: Fernanda
+Estado: Por Hacer
+Prioridad: Alta
+Fecha Inicio: 2024-10-21
+Fecha Fin: 2024-10-22
+---------------------------
+Nombre: Actualizar curriculum
+Descripción: Revisar y actualizar el curriculum vitae. Incluir nuevos proyectos, habilidades adquiridas y experiencia reciente.
+Usuario: Jahel
+Estado: Completada
+Prioridad: Media
+Fecha Inicio: 2024-11-08
+Fecha Fin: 2024-11-09
+---------------------------
+Nombre: Comprar electrodoméstico
+Descripción: Comparar precios y características de un nuevo refrigerador. Visitar tiendas y verificar ofertas en línea antes de comprar.
+Usuario: Luis
+Estado: En Progreso
+Prioridad: Media
+Fecha Inicio: 2024-11-23
+Fecha Fin: 2024-11-24
+---------------------------
+Nombre: Escribir artículo
+Descripción: Redactar un artículo sobre sostenibilidad y hábitos ecológicos para el blog. Investigar datos relevantes y añadir ejemplos prácticos.
+Usuario: Carlos
+Estado: Completada
+Prioridad: Baja
+Fecha Inicio: 2024-11-25
+Fecha Fin: 2024-11-26
+---------------------------
